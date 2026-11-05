@@ -1,4 +1,4 @@
-Journity
+Klipse
 ======
 This is the official repository and issue-tracker for Klipse 1.12.2
 
