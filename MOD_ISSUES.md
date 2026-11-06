@@ -4,5 +4,4 @@ If you don't know what to do, join our Discord and ask for help.
 
 - Advancement Plaques [CurseForge]() | [Modrinth]() -> [Issue Page]() []()
 - Just Enough Items (JEI) [CurseForge](https://www.curseforge.com/minecraft/mc-mods/jei) | [Modrinth](https://modrinth.com/mod/jei) -> [Issue Page](https://github.com/mezz/JustEnoughItems/issues) [⚡](https://github.com/mezz/JustEnoughItems/issues/new/choose)
-
 <br>
