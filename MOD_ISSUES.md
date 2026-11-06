@@ -2,6 +2,6 @@
 *Note: Report only bugs/unintended behaviours that might be exclusive to the mod, **DO NOT** report crashes and disconnects, those need to be filtered by us, until we redirect you to the modders issue page*<br>
 If you don't know what to do, join our Discord and ask for help.
 
-- Advancement Plaques [CurseForge]() | [Modrinth]() -> [Issue Page]() []()
+- Advancement Plaques [CurseForge](https://www.curseforge.com/minecraft/mc-mods/advancement-plaques) | [Modrinth](https://modrinth.com/mod/advancement-plaques) -> [Issue Page](https://discord.gg/UCKjnamDaW)
 - Just Enough Items (JEI) [CurseForge](https://www.curseforge.com/minecraft/mc-mods/jei) | [Modrinth](https://modrinth.com/mod/jei) -> [Issue Page](https://github.com/mezz/JustEnoughItems/issues) [⚡](https://github.com/mezz/JustEnoughItems/issues/new/choose)
 <br>
