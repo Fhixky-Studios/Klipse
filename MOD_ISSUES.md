@@ -39,3 +39,4 @@ If you don't know what to do, join our Discord and ask for help.
 - Zeta [CurseForge]() | [Modrinth]() -> [Issue Page]() [⚡]()
 
 </details>
+<br>
